@@ -25,7 +25,7 @@
     <a href="https://github.com/MB-44?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/MB-44?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/MB-44?tab=profile" >
-        <img alt="profile views" title="profile views" src="https://komarev.com/ghpvc/?username=MB-44&style=flat-square&color=green" style="width: 120px; height: 30px;"/></a>
+        <img alt="profile views" title="profile views" src="https://komarev.com/ghpvc/?username=MB-44&style=flat-square&color=green" style="width: 120px; height: 28px;"/></a>
 </p>
 
 <br/>
