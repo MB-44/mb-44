@@ -5,6 +5,6 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/dilum_de" target="_blank">
-
+<a href="https://twitter.com/itsmenathbadde" target="_blank">
+    <img align="center" alt="Menath | Twitter" width="26px" src="https://github.com/dilumdesilva/dilumdesilva/blob/main/src/twitter.svg">
 </p>
