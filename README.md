@@ -37,7 +37,7 @@
     <h3> Streak Stats</h3>
     <p>
         <a href="https://github.com/MB-44/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MB-44 Streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MB-44 Streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=MB-44&theme=monokai-metallian&hide_border=true">
         </a>
     </p>
 </details>
