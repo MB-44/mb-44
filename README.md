@@ -40,6 +40,10 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MB-44 Streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=MB-44&theme=monokai-metallian&hide_border=true">
         </a>
     </p>
+    <h3>Github Profile Stats</h3>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MB-44's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MB-44&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MB-44's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MB-44&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
 </details>
 
 
