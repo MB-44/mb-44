@@ -33,7 +33,7 @@
 </p>
 
 <details>
-    <summary><h2>Stats and Activity</h2></summary>
+    <summary><h2>🛩️ Stats and Activity</h2></summary>
     <h3> Streak Stats</h3>
     <p>
         <a href="https://github.com/MB-44/github-readme-streak-stats">
