@@ -49,6 +49,10 @@
 
 </details>
 
+## 🌠 Career Goals
+
+💻 **Software Developer**
+🤖 **AI Engineer** 
 
 
 
