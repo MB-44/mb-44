@@ -5,11 +5,12 @@
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/_itzmenaa_" target="_blank">
-    <img align="center" alt="Menath | Instagram" width="24px" src="https://github.com/MB-44/mb-44/blob/main/src/instagram.svg"/>
-</a> &nbsp;&nbsp;
+    
 <a href="https://twitter.com/itsmenathbadde" target="_blank">
     <img align="center" alt="Menath | Twitter" width="26px" src="https://github.com/MB-44/mb-44/blob/main/src/twitter.svg"/>
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/_itzmenaa_" target="_blank">
+    <img align="center" alt="Menath | Instagram" width="24px" src="https://github.com/MB-44/mb-44/blob/main/src/instagram.svg"/>
 </a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/itsmenathbadde" target="_blank">
   <img align="center" alt="Menath | Linkedin" width="24px" src="https://github.com/MB-44/mb-44/blob/main/src/linkedin.svg" />
