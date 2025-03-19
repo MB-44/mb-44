@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/MB-44/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Menath%20Baddegama;MB-44;Game%20Developer;Full%20Stack%20Developer;Passionate%20Developer;Open-Source%20Enthusiast;&font=Fira%20Code&center=true&width=440&height=45&color=3b56d1&vCenter=true&size=28">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Menath;MB-44;Game%20Developer;Full%20Stack%20Developer;Creative%20Developer;Passionate%20Developer;Freelance;&font=Fira%20Code&center=true&width=440&height=45&color=3b56d1&vCenter=true&size=28">
     </a>
 </p>
 
